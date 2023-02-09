@@ -1,5 +1,7 @@
 # Design thinking - Empathie
 
+## Persona : Responsable de formation 
+
 ## Ce qu'il dit : 
 
 Le directeur dit que la maquette pour ajouter des étudiants ne contient pas toutes les informations présentes dans le fichier Excel. Il mentionne que le fichier contient environ 30 informations supplémentaires et qu'il souhaiterait les voir incluses dans l'application.
