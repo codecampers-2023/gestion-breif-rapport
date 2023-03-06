@@ -4,6 +4,8 @@
     -assigne brief
     -Suivre l'avancement du groupe
     -validation des briefs
+    -Quand modifier un brief et l'autre formateur modifié le même brief en même temps , ça reste la dernière modification
+    -Quand les apprenants rendus un brief, le formateur ne peut pas voir les apprenants qui ne sont pas rendus les briefs car le site afficher juste le nombre des apprenants rendus
 ## Faire
      -créer les briefs
      -donner l'accès aux briefs préparez pour les formateurs
@@ -14,9 +16,9 @@
        -soit à partir d'entrer aux briefs et voir les apprenants qui rendut
      
      -supprimer l'affectation de brief au groupe ou un apprenant
+
+## Pense (les remarques, les problemes)
      
-## Définir le problème
-     -Quand modifier un brief et l'autre formateur modifié le même brief en même temps , ça reste la dernière modification
-     -Quand les apprenants rendus un brief, le formateur ne peut pas voir les apprenants qui ne sont pas rendus les briefs car le site afficher juste le nombre des apprenants rendus
+    
      
 
