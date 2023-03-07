@@ -31,77 +31,33 @@ Selon la nature du projet l'application adapte ces interfaces de suivi de l'avan
 
 - Ajouter un projet 
   - Ajouter les états du projet
+    - Insertion des valeurs par défaut 
+      - à faire
+      - en cours
+      - en pause
+      - en validation
+      - en présentation
+      - terminé
   - Ajouter les états des tâches 
-- Ajouter une tâche à un projet
+      - à faire
+      - en cours
+      - en pause
+      - en validation
+      - terminé
+  - Ajouter une tâche à un projet
+- Affectation d'un projet 
+  - à une équipe 
+  - à un l'individu
+
+## Fonctionnalité de l'individu
+
+- Réalisation des tâches
+  - Filtrage par projet
+
+## Tableau de bord du chef de projet
 
 
-
-
-## Gestion individus 
-
-- Gestion des groupes (Promotion)
-- Gestion des apprenants
-  - Chaque apprenant appartiens à un groupe
-- Gestion des formateurs
-- Gestion des individus 
-  - à la création de chaque apprenants, on crée l'individu en relation avec l'apprenant
-  - à la création de chaque formateurs, on crée l'individu en relation
-
-## Fonctionnalités 
-
-- Création du nature de gestion 
-  - L'application peut gérer plusieurs nature de projet 
-    - brief projet 
-    - auto-formation
-    - projet de club informatique
-    - projet hackathon
-    - projet libre
-
-- Création des chef de projet 
-  - le chef du projet est une état de l'individu
-  - par défaut le chef du projet peut gérer seulement les projets de nature brief-projet
-
-- Le chef du projet peut activer une nature de gestion
-
-- Le menu de l'application doit s'adapter aux natures de projets activés 
-
-
-## Fonctionnalités - nature : brief projet
-
-Après la connexion du chef du projet : 
-- Gestion des apprenants avec leurs groupes
-
-
-
-
-- 
-
-- Création des groupes 
-  - le groupe peut avoir plusieurs nature 
-    - Apprenants
-    - Formateur
-    - Membre du club
-    - Membre du comité de Hackathon
-  
-- Création des individus 
-
-- Gestion des apprenants ( Ressource humain ) avec leurs groupes
-- 
-
--  Création de projets
--  Création et affectation de tâches
-   -  les utilisateurs peuvent créer des tâches et les attribuer à eux-mêmes ou à d'autres membres de l'équipe.
-  - Fixation des délais : les utilisateurs peuvent définir une date de début  et de fin pour les tâches. 
-  - Suivi de la progression : Les utilisateurs peuvent suivre l'avancement des tâches et indiquer leur état actuel (en cours, terminée, en pause, en validation).
-  - Collaboration : les utilisateurs peuvent travailler sur un projet en équipe et partager des tâches entre eux.
-  - Définition des priorités : les utilisateurs peuvent indiquer l'importance des tâches.
-  
- 
-
- 
-- Développer une application de gestion de tâches pour les apprenants, qui intègre les pratiques de gestion de projet, avec les fonctionnalités suivant :
-
-
+## Tableau de bord de l'individu
 
 
 
