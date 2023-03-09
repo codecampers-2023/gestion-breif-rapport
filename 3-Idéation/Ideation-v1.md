@@ -7,7 +7,7 @@ L'idée principale est de suivi l'avancement des brief projet et l'auto-formatio
 
 On peut ajouter une catégorie du projet pour indiquer la nature de projet à gérer.
 
-à la création du projet, le chef du projet doit préciser la nature du projet (Brief-projet, Auto-formaiton, projet simple).
+à la création du projet, le chef du projet doit préciser la nature du projet (Brief-projet, Auto-formation, projet simple).
 
 Selon la nature du projet l'application adapte ces interfaces de suivi de l'avancement du projet, aux utilisateurs.
 
@@ -26,6 +26,7 @@ Selon la nature du projet l'application adapte ces interfaces de suivi de l'avan
 - Gestion des chef de projets
   - Le chef de projet un individu
   - Indiquer l'équipe par défaut
+
   
 ## Les fonctionnalité du chef de projet 
 
@@ -33,6 +34,16 @@ Selon la nature du projet l'application adapte ces interfaces de suivi de l'avan
   - Ajouter les états du projet
   - Ajouter les états des tâches 
 - Ajouter une tâche à un projet
+
+- Ajouter un Brief-projet
+  - Ajouter les états d'un Brief-projet
+  - Ajouter les états des tâches  
+- Ajouter une tâche à un Brief-projet
+
+- Ajouter un Auto-formation
+  - Ajouter les états du Auto-formation
+  - Ajouter les états des tâches 
+- Ajouter une tâche à un Auto-formation
 
 
 
